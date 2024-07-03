@@ -16,7 +16,7 @@ The **Image Strength Password** project provides visual feedback on password str
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Vaishnavirokde999/image-strength-password.git
+    git clone https://github.com/Vaishnavirokde99/image-strength-password.git
     ```
 2. Open `index.html` in your web browser.
 3. Enter a password in the input field to see the image blur effect.
